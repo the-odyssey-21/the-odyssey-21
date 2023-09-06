@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-odyssey-21
-- 👀 I’m interested in programming, linux and computer security.
-- 🌱 I’m currently learning software engineering basics including coding.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python programming, linux and cyber-security.
+- 🌱 I’m currently learning to code in python.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me : markizie@gmail.com
 -twitter: @odah_theodyssey
 
